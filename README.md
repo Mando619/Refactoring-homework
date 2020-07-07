@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Mando619/Refactoring-homework/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Horiseon webpage 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    **Horiseon is a search engine optimization, (SEO). It's purpose is to find customers that are in search for the right business for any situation.** 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contribute
 
-```markdown
-Syntax highlighted code block
+    **In this project, I refactored the website helping to make easier understanding html content. with in the html index, I edited and included semantics where neccessary. Following after, I concised the CSS folder to better read.**
 
-# Header 1
-## Header 2
-### Header 3
+# Conclusion
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mando619/Refactoring-homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    **I found this to be troubling at first. After much practice, and reading, I was able to understand more. I found the html structure like writing a paper. The layout is similar in my eyes. SO I was able to relate, and assess a lot clearer. 

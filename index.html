@@ -10,7 +10,7 @@
 <!---Changed the <div> to <header>-->
 <body>
     <header class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
+        <h1>Hori<span class="seo" role="">seo</span>n</h1>
 
     <!--Changed the <div> to a <nav> Nav used for navigation links. Diasbled users can use this element -->
          <nav aria-label="Main Menu">
@@ -29,7 +29,8 @@
     </header>
     <!--- Added a main element to differentiate. From header, footer etc. -->
     <main>
-    <div class="hero"></div>
+        <!-- added a role  and aria-label to describe the picture.-->
+    <div class="hero" role="img" aria-label="four peoples having a business meeting"></div>
     <!--Changing the div to article. Element used to specifiy contained content. Also adding an Id.  -->
     <article id="content" class="content">
         <!--changing div to section. this element defines its a part of this document. Also adding an Id.-->
